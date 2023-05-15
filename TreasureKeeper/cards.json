@@ -1,0 +1,374 @@
+[
+    {
+        "id": "acidic-slime",
+        "name": "Acidic Slime",
+        "type": "Creature - Ooze",
+        "expansion": "NEC",
+        "number": "112",
+        "rarity": "Uncommon",
+        "artist": "Karl Kopinsky",
+        "summary": "Deathtouch\nWhen Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land."
+    },
+    {
+        "id": "agitator-ant",
+        "name": "Agitator Ant",
+        "type": "Creature - Insect",
+        "expansion": "NEC",
+        "number": "102",
+        "rarity": "Rare",
+        "artist": "Igor Kieryluk",
+        "summary": "At the beginning of your end step, each player may put two +1/+1 counters on a creature they control. Goad each creature that had counters put on it this way."
+    },
+    {
+        "id": "akki-battle-squad",
+        "name": "Akki Battle Squad",
+        "type": "Creature - Goblin Samurai",
+        "expansion": "NEC",
+        "number": "18",
+        "rarity": "Rare",
+        "artist": "Steve Prescott",
+        "summary": "Whenever one or more modified creatures you control attack, untap all modified creatures you control. After this combat phase, there is an additional combat phase. This ability triggers only once each turn."
+    },
+    {
+        "id": "arcane-signet",
+        "name": "Arcane Signet",
+        "type": "Artifact",
+        "expansion": "NEC",
+        "number": "144",
+        "rarity": "Common",
+        "artist": "Dan Scott",
+        "summary": "Tap: Add one mana of any color in your commander's color identity."
+    },
+    {
+        "id": "ascendant-acolyte",
+        "name": "Ascendant Acolyte",
+        "type": "Creature - Human Monk",
+        "expansion": "NEC",
+        "number": "24",
+        "rarity": "Rare",
+        "artist": "Micah Epstein",
+        "summary": "Ascendant Acolyte enters the battlefield with a +1/+1 counter on it for each +1/+1 counter among other creatures you control.\nAt the beginning of your upkeep, double the number of +1/+1 counters on Ascendant Acolyte."
+    },
+    {
+        "id": "bear-umbra",
+        "name": "Bear Umbra",
+        "type": "Enchantment - Aura",
+        "expansion": "NEC",
+        "number": "113",
+        "rarity": "Rare",
+        "artist": "Howard Lyon",
+        "summary": "Enchant creature\nEnchanted creature gets +2/+2 and has \"Whenever this creature attacks, untap all lands you control.\"\nTotem armor"
+    },
+    {
+        "id": "beast-within",
+        "name": "Beast Within",
+        "type": "Instant",
+        "expansion": "NEC",
+        "number": "114",
+        "rarity": "Uncommon",
+        "artist": "Jesper Ejsing",
+        "summary": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
+        
+    },
+    {
+        "id": "blackblade-reforged",
+        "name": "Blackblade Reforged",
+        "type": "Legendary Artifact - Equipment",
+        "expansion": "NEC",
+        "number": "146",
+        "rarity": "Rare",
+        "artist": "Chris Rahn",
+        "summary": "Equipped creature gets +1/+1 for each land you control.\nEquip legendary creature 3\nEquip 7"
+    },
+    {
+        "id": "bonehoard",
+        "name": "Bonehoard",
+        "type": "Artifact - Equipment",
+        "expansion": "NEC",
+        "number": "147",
+        "rarity": "Rare",
+        "artist": "Chippy",
+        "summary": "Living Weapon\nEquipped creature gets +X/+X, where X is the number of creature cards in all graveyards.\nEquip 2"
+    },
+    {
+        "id": "chain-reaction",
+        "name": "Chain Reaction",
+        "type": "Sorcery",
+        "expansion": "NEC",
+        "number": "103",
+        "rarity": "Rare",
+        "artist": "Trevor Claxton",
+        "summary": "Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield."
+    },
+    {
+        "id": "champion-of-lambholt",
+        "name": "Champion of Lambholt",
+        "type": "Creature - Human Warrior",
+        "expansion": "NEC",
+        "number": "115",
+        "rarity": "Rare",
+        "artist": "Christoper Moeller",
+        "summary": "Creatures with power less than Champion of Lambholt's power can't block creatures you control.\nWhenever another creature enters the battlefield under your control, put a +1/+1 counter on Champion of Lambholt."
+    },
+    {
+        "id": "chaos-warp",
+        "name": "Chaos Warp",
+        "type": "Instant",
+        "expansion": "NEC",
+        "number": "104",
+        "rarity": "Rare",
+        "artist": "Trevor Claxton",
+        "summary": "The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield."
+    },
+    {
+        "id": "chishiro-the-shattered-blade",
+        "name": "Chishiro, the Shattered Blade",
+        "type": "Legendary Creature - Snake Samurai",
+        "expansion": "NEC",
+        "number": "1",
+        "rarity": "Mythic",
+        "artist": "Lius Lasahido",
+        "summary": "Whenever an Aura or Equipment enters the battlefield under your control, create a 2/2 red Spirit creature token with menace.\nAt the beginning of your end step, put a +1/+1 counter on each modified creature you control."
+    },
+    {
+        "id": "cinder-glade",
+        "name": "Cinder Glade",
+        "type": "Land - Mountain Forest",
+        "expansion": "NEC",
+        "number": "166",
+        "rarity": "Rare",
+        "artist": "Adam Paquette",
+        "summary": "(Tap: Add M or F.)\nCinder Glade enters the battlefield tapped unless you control two or more basic lands."
+    },
+    {
+        "id": "collision-of-realms",
+        "name": "Collision of Realms",
+        "type": "Sorcery",
+        "expansion": "NEC",
+        "number": "19",
+        "rarity": "Rare",
+        "artist": "Piotr Dura",
+        "summary": "Each player shuffles all creatures they own into their library. Each player who shuffled a nontoken creature into their library this way reveals cards from the top of their library until they reveal a creature card, then puts that card onto the battlefield and the rest on the bottom of their library in a random order."
+    },
+    {
+        "id": "command-tower",
+        "name": "Command Tower",
+        "type": "Land",
+        "expansion": "NEC",
+        "number": "167",
+        "rarity": "Common",
+        "artist": "Ryan Yee",
+        "summary": "Tap: Add one mana of any color in your commander's color identity."
+    },
+    {
+        "id": "concord-with-the-kami",
+        "name": "Concord with the Kami",
+        "type": "Enchantment",
+        "expansion": "NEC",
+        "number": "25",
+        "rarity": "Rare",
+        "artist": "Marta Nael",
+        "summary": "At the beginning of your end step, choose one or more —\n• Put a +1/+1 counter on target creature with a counter on it.\n• Draw a card if you control an enchanted creature.\n• Create a 1/1 colorless Spirit creature token if you control an equipped creature."
+    },
+    {
+        "id": "decimate",
+        "name": "Decimate",
+        "type": "Sorcery",
+        "expansion": "NEC",
+        "number": "137",
+        "rarity": "Rare",
+        "artist": "Zoltan Boros",
+        "summary": "Destroy target artifact, target creature, target enchantment, and target land."
+    },
+    {
+        "id": "elemental-mastery",
+        "name": "Elemental Mastery",
+        "type": "Enchantment - Aura",
+        "expansion": "NEC",
+        "number": "105",
+        "rarity": "Rare",
+        "artist": "Cyril Van Der Haegen",
+        "summary": "Enchant creature\nEnchanted creature has \"Tap: Create X1/1 red Elemental creature tokens with haste, where X is the creature's power. Exile them at the beginning of the next end step.\""
+    },
+    {
+        "id": "exotic-orchard",
+        "name": "Exotic Orchard",
+        "type": "Land",
+        "expansion": "NEC",
+        "number": "168",
+        "rarity": "Rare",
+        "artist": "Steven Belledin",
+        "summary": "Tap: Add one mana of any color that a land an opponent controls could produce."
+    },
+    {
+        "id": "fertilid",
+        "name": "Fertilid",
+        "type": "Creature - Elemental",
+        "expansion": "NEC",
+        "number": "116",
+        "rarity": "Common",
+        "artist": "Nicholas Gregory",
+        "summary": "Fertilid enters the battlefield with two +1/+1 counters on it.\nC G, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles."
+    },
+    {
+        "id": "fireshrieker",
+        "name": "Fireshrieker",
+        "type": "Artifact - Equipment",
+        "expansion": "NEC",
+        "number": "151",
+        "rarity": "Uncommon",
+        "artist": "Christopher Moeller",
+        "summary": "Equipped creature has double strike. \nEquip 2"
+    },
+    {
+        "id": "forest",
+        "name": "Forest",
+        "type": "Basic Land - Forest",
+        "expansion": "NEC",
+        "number": "180",
+        "rarity": "Common",
+        "artist": "John Avon",
+        "summary": "(T: Add G.)"
+    },
+    {
+        "id": "forgotten-ancient",
+        "name": "Forgotten Ancient",
+        "type": "Creature - Elemental",
+        "expansion": "NEC",
+        "number": "117",
+        "rarity": "Rare",
+        "artist": "Mark Tedin",
+        "summary": "Whenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.\nAt the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures."
+    },
+    {
+        "id": "game-trail",
+        "name": "Game Trail",
+        "type": "Land",
+        "expansion": "NEC",
+        "number": "169",
+        "rarity": "Rare",
+        "artist": "Adam Paquette",
+        "summary": "As Game Trail enters the battlefield, you may reveal a Mountain or Forest card from your hand. If you don’t, Game Trail enters the battlefield tapped.\nTap: Add R or G."
+    },
+    {
+        "id": "goblin-razerunners",
+        "name": "Goblin Razerunners",
+        "type": "Creature - Goblin Warrior",
+        "expansion": "NEC",
+        "number": "106",
+        "rarity": "Rare",
+        "artist": "Raymond Swanland",
+        "summary": "C R, Sacrifice a land: Put a +1/+1 counter on Goblin Razerunners.\nAt the beginning of your end step, you may have Goblin Razerunners deal damage equal to the number of +1/+1 counters on it to target player or planeswalker."
+    },
+    {
+        "id": "grumgully-the-generous",
+        "name": "Grumgully, the Generous",
+        "type": "Legendary Creature - Goblin Shaman",
+        "expansion": "NEC",
+        "number": "138",
+        "rarity": "Uncommon",
+        "artist": "Milivoj Ćeran",
+        "summary": "Each other non-Human creature you control enters the battlefield with an additional +1/+1 counter on it."
+    },
+    {
+        "id": "gruul-turf",
+        "name": "Gruul Turf",
+        "type": "Land",
+        "expansion": "NEC",
+        "number": "170",
+        "rarity": "Uncommon",
+        "artist": "John Avon",
+        "summary": "Gruul Turf enters the battlefield tapped.\nWhen Gruul Turf enters the battlefield, return a land you control to its owner's hand.\nTap: Add R G."
+    },
+    {
+        "id": "hunters-insight",
+        "name": "Hunter's Insight",
+        "type": "Instant",
+        "expansion": "NEC",
+        "number": "119",
+        "rarity": "Uncommon",
+        "artist": "Jim Murray",
+        "summary": "Choose target creature you control. Whenever that creature deals combat damage to a player or planeswalker this turn, draw that many cards."
+    },
+    {
+        "id": "genesis-hydra",
+        "name": "Genesis Hydra",
+        "type": "Creature - Plant Hydra",
+        "expansion": "NEC",
+        "number": "118",
+        "rarity": "Rare",
+        "artist": "Donato Giancola",
+        "summary": "When you cast this spell, reveal the top X cards of your library. You may put a nonland permanent card with mana value X or less from among them onto the battlefield. Then shuffle the rest into your library.\nGenesis Hydra enters the battlefield with X +1/+1 counters on it."
+    },
+    {
+        "id": "invigorating-hot-spring",
+        "name": "Invigorating Hot Spring",
+        "type": "Enchantment",
+        "expansion": "NEO",
+        "number": "223",
+        "rarity": "Uncommon",
+        "artist": "Gabor Szikszai",
+        "summary": "Invigorating Hot Spring enters the battlefield tapped.\nModified creatures you control have haste.\nRemove a +1/+1 counter from Invigorating Hot Spring: Put a +1/+1 counter on target creature you control. Activate only as a sorcery and only once each turn."
+    },
+    {
+        "id": "kaima-the-fractured-calm",
+        "name": "Kaima, the Fractured Calm",
+        "type": "Legendary Creature - Spirit",
+        "expansion": "NEC",
+        "number": "3",
+        "rarity": "Mythic",
+        "artist": "Filip Burburan",
+        "summary": "At the beginning of your end step, goad each creature your opponents control that’s enchanted by an Aura you control. Put a +1/+1 counter on Kaima, the Fractured Calm for each creature goaded this way."
+    },
+    {
+        "id": "kami-of-celebration",
+        "name": "Kami of Celebration",
+        "type": "Creature - Spirit",
+        "expansion": "NEC",
+        "number": "20",
+        "rarity": "Rare",
+        "artist": "Milivoj Ćeran",
+        "summary": "Whenever a modified creature you control attacks, exile the top card of your library. You may play that card this turn.\nWhenever you cast a spell from exile, put a +1/+1 counter on target creature you control."
+    },
+    {
+        "id": "kodamas-reach",
+        "name": "Kodama's Reach",
+        "type": "Sorcery - Arcane",
+        "expansion": "NEC",
+        "number": "120",
+        "rarity": "Common",
+        "artist": "Sam Burley",
+        "summary": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
+    },
+    {
+        "id": "komainu-battle-armor",
+        "name": "Komainu Battle Armor",
+        "type": "Artifact Creature - Equipment Dog",
+        "expansion": "NEC",
+        "number": "21",
+        "rarity": "Rare",
+        "artist": "Nestor Ossandon Leal",
+        "summary": "Menace\nEquipped creature gets +2/+2 and has menace.\nWhenever Komainu Battle Armor or equipped creature deals combat damage to a player, goad each creature that player controls.\nReconfigure 4"
+    },
+    {
+        "id": "kosei-penitent-warlord",
+        "name": "Kosei, Penitent Warlord",
+        "type": "Legendary Creature - Ogre Samurai",
+        "expansion": "NEC",
+        "number": "26",
+        "rarity": "Rare",
+        "artist": "Matt Stewart",
+        "summary": "As long as Kosei, Penitent Warlord is enchanted, equipped, and has a counter on it, Kosei has \"Whenever Kosei, Penitent Warlord deals combat damage to an opponent, you draw that many cards and Kosei deals that much damage to each other opponent.\""
+    },
+    {
+        "id": "krenko-tin-street-kingpin",
+        "name": "Krenko, Tin Street Kingpin",
+        "type": "Legendary Creature - Goblin",
+        "expansion": "NEC",
+        "number": "107",
+        "rarity": "Rare",
+        "artist": "Mark Behm",
+        "summary": "Whenever Krenko, Tin Street Kingpin attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko’s power."
+    }
+]
+
